@@ -1,6 +1,6 @@
 ## Traffic Sign Recognition Program
 
-<img src="Extra\ Images/70.jpg" width="480" alt="Combined Image" />
+<img src="Extra Images/70.jpg" width="480" alt="Combined Image" />
 Overview
 ---
 Project #2 from the Udacity Self-Driving Car Program (SDC).
